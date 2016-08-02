@@ -1,0 +1,965 @@
+[
+    {
+        "album": "Enter the Wu-Tang - 36 Chambers",
+        "album_artist": "Wu-Tang Clan",
+        "artist": "Wu-Tang Clan",
+        "name": "Clan In Da Front",
+        "start_time": 80000,
+        "stop_time": null,
+        "total_time": 273266
+    },
+    {
+        "album": "Dangerous",
+        "album_artist": "Michael Jackson",
+        "artist": "Michael Jackson",
+        "name": "Black Or White",
+        "start_time": 53000,
+        "stop_time": null,
+        "total_time": 255947
+    },
+    {
+        "album": "Enter the Wu-Tang - 36 Chambers",
+        "album_artist": "Wu-Tang Clan",
+        "artist": "Wu-Tang Clan",
+        "name": "7th Chamber",
+        "start_time": 90000,
+        "stop_time": null,
+        "total_time": 365479
+    },
+    {
+        "album": "Revolver",
+        "album_artist": null,
+        "artist": "The Beatles",
+        "name": "Here, There And Everywhere",
+        "start_time": 2000,
+        "stop_time": 144000,
+        "total_time": 146720
+    },
+    {
+        "album": "Don't Phunk With My Heart",
+        "album_artist": "Black Eyed Peas",
+        "artist": "Black Eyed Peas",
+        "name": "Don't Phunk With My Heart",
+        "start_time": 15000,
+        "stop_time": null,
+        "total_time": 244897
+    },
+    {
+        "album": "(no album)",
+        "album_artist": null,
+        "artist": "Lil B",
+        "name": "I Cook",
+        "start_time": 38000,
+        "stop_time": null,
+        "total_time": 326452
+    },
+    {
+        "album": "(no album)",
+        "album_artist": null,
+        "artist": "The Kinks",
+        "name": "You Really Got Me (Remaster)",
+        "start_time": 3000,
+        "stop_time": null,
+        "total_time": 137377
+    },
+    {
+        "album": "Christmas Hits",
+        "album_artist": null,
+        "artist": "Snowman",
+        "name": "Walking In The Air",
+        "start_time": 5250,
+        "stop_time": null,
+        "total_time": 213237
+    },
+    {
+        "album": "Game Theory",
+        "album_artist": "The Roots",
+        "artist": "The Roots",
+        "name": "Game Theory",
+        "start_time": 44000,
+        "stop_time": null,
+        "total_time": 241266
+    },
+    {
+        "album": "Another Level",
+        "album_artist": "Blackstreet",
+        "artist": "Blackstreet",
+        "name": "Don't Leave Me",
+        "start_time": 6000,
+        "stop_time": null,
+        "total_time": 317257
+    },
+    {
+        "album": "Soul Survivor",
+        "album_artist": null,
+        "artist": "Pete Rock",
+        "name": "Tru Master (feat. Inspectah Deck, Kurupt)",
+        "start_time": 21000,
+        "stop_time": 225500,
+        "total_time": 239568
+    },
+    {
+        "album": "Phrenology",
+        "album_artist": "The Roots",
+        "artist": "The Roots",
+        "name": "Rhymes And Ammo/Thirsty (featuring Talib Kweli)",
+        "start_time": 40000,
+        "stop_time": 311000,
+        "total_time": 479893
+    },
+    {
+        "album": "The Mouse And The Mask",
+        "album_artist": null,
+        "artist": "Dangerdoom",
+        "name": "Sofa King (Original)",
+        "start_time": 6300,
+        "stop_time": null,
+        "total_time": 177214
+    },
+    {
+        "album": "Hand on the Torch",
+        "album_artist": "Us3",
+        "artist": "Us3",
+        "name": "Cantaloop (Flip Fantasia)",
+        "start_time": 9800,
+        "stop_time": null,
+        "total_time": 279327
+    },
+    {
+        "album": "Only Built 4 Cuban Linx",
+        "album_artist": "Raekwon",
+        "artist": "Raekwon",
+        "name": "Wu-Gambinos",
+        "start_time": 69000,
+        "stop_time": null,
+        "total_time": 339565
+    },
+    {
+        "album": "(no album)",
+        "album_artist": null,
+        "artist": "Nelly Furtado",
+        "name": "Promiscuous (feat. Timbaland)",
+        "start_time": 3000,
+        "stop_time": 240000,
+        "total_time": 244249
+    },
+    {
+        "album": "Let It Be",
+        "album_artist": null,
+        "artist": "The Beatles",
+        "name": "Get Back",
+        "start_time": 20000,
+        "stop_time": null,
+        "total_time": 187093
+    },
+    {
+        "album": "Love Movement",
+        "album_artist": "Tribe Called Quest",
+        "artist": "Tribe Called Quest",
+        "name": "Money Maker",
+        "start_time": 29000,
+        "stop_time": null,
+        "total_time": 262523
+    },
+    {
+        "album": "Hot Tracks 15th Ann. Disc 15",
+        "album_artist": null,
+        "artist": "The Bucketheads",
+        "name": "These Sounds Fall Into My Mind",
+        "start_time": 34800,
+        "stop_time": null,
+        "total_time": 387761
+    },
+    {
+        "album": "Liquid Swords",
+        "album_artist": "GZA/Genius",
+        "artist": "GZA/Genius",
+        "name": "4th Chamber",
+        "start_time": 31000,
+        "stop_time": null,
+        "total_time": 276919
+    },
+    {
+        "album": "(no album)",
+        "album_artist": null,
+        "artist": "Lil B",
+        "name": "Hoes On My D (feat. Andy Milonakis)",
+        "start_time": 7000,
+        "stop_time": null,
+        "total_time": 199784
+    },
+    {
+        "album": "Youth & Young Manhood",
+        "album_artist": "Kings of Leon",
+        "artist": "Kings of Leon",
+        "name": "Talihina Sky (Hidden Track)",
+        "start_time": 500500,
+        "stop_time": null,
+        "total_time": 728360
+    },
+    {
+        "album": "Enter the Wu-Tang - 36 Chambers",
+        "album_artist": "Wu-Tang Clan",
+        "artist": "Wu-Tang Clan",
+        "name": "Bring Da Ruckus",
+        "start_time": 13500,
+        "stop_time": null,
+        "total_time": 250775
+    },
+    {
+        "album": "Love Movement",
+        "album_artist": "Tribe Called Quest",
+        "artist": "Tribe Called Quest",
+        "name": "Start It Up",
+        "start_time": 10000,
+        "stop_time": null,
+        "total_time": 198505
+    },
+    {
+        "album": "Reasonable Doubt",
+        "album_artist": "Jay-Z",
+        "artist": "Jay-Z",
+        "name": "Can't Knock The Hustle (feat. Mary J. Blige)",
+        "start_time": 42000,
+        "stop_time": null,
+        "total_time": 317204
+    },
+    {
+        "album": "The Mouse And The Mask",
+        "album_artist": null,
+        "artist": "Dangerdoom",
+        "name": "Sofa King (Alternate Beat)",
+        "start_time": 3500,
+        "stop_time": null,
+        "total_time": 178364
+    },
+    {
+        "album": "Paper Trail (Deluxe Version)",
+        "album_artist": "T.I.",
+        "artist": "T.I.",
+        "name": "Live Your Life (feat. Rihanna)",
+        "start_time": 11900,
+        "stop_time": null,
+        "total_time": 338853
+    },
+    {
+        "album": "Timbaland Presents: Shock Value",
+        "album_artist": "Timbaland",
+        "artist": "Timbaland",
+        "name": "The Way I Are Feat Keri Hilson & D.O.E.",
+        "start_time": 9500,
+        "stop_time": null,
+        "total_time": 179356
+    },
+    {
+        "album": "Tical 2000: Judgement Day",
+        "album_artist": "Method Man",
+        "artist": "Method Man",
+        "name": "Perfect World",
+        "start_time": 20000,
+        "stop_time": null,
+        "total_time": 180715
+    },
+    {
+        "album": "Enter the Wu-Tang - 36 Chambers",
+        "album_artist": "Wu-Tang Clan",
+        "artist": "Wu-Tang Clan",
+        "name": "Can It Be All So Simple",
+        "start_time": 41000,
+        "stop_time": 281995,
+        "total_time": 412995
+    },
+    {
+        "album": "Gold",
+        "album_artist": null,
+        "artist": "Marvin Gaye",
+        "name": "How Sweet It Is (To Be Loved By You)",
+        "start_time": 2000,
+        "stop_time": null,
+        "total_time": 178677
+    },
+    {
+        "album": "Watch The Throne",
+        "album_artist": "Kanye West & Jay-Z",
+        "artist": "Kanye West & Jay-Z",
+        "name": "Illest Motherf**ker Alive",
+        "start_time": 180000,
+        "stop_time": null,
+        "total_time": 503379
+    },
+    {
+        "album": "Life After Death",
+        "album_artist": "The Notorious B.I.G.",
+        "artist": "The Notorious B.I.G.",
+        "name": "Kick In The Door (feat. The Madd Rapper)",
+        "start_time": 74000,
+        "stop_time": null,
+        "total_time": 286981
+    },
+    {
+        "album": "Faith",
+        "album_artist": "George Michael",
+        "artist": "George Michael",
+        "name": "Faith",
+        "start_time": 36000,
+        "stop_time": null,
+        "total_time": 196362
+    },
+    {
+        "album": "Genius - The Ultimate Ray Charles Collection",
+        "album_artist": "Ray Charles",
+        "artist": "Ray Charles",
+        "name": "Hallelujah I Love Her So",
+        "start_time": 4000,
+        "stop_time": 178000,
+        "total_time": 183954
+    },
+    {
+        "album": "(no album)",
+        "album_artist": null,
+        "artist": "Rob Base & DJ EZ Rock",
+        "name": "It Takes Two",
+        "start_time": 13100,
+        "stop_time": 279000,
+        "total_time": 300303
+    },
+    {
+        "album": "The Best of Flock of Seagulls",
+        "album_artist": "A Flock of Seagulls",
+        "artist": "Flock Of Seagulls",
+        "name": "I Ran (So Far Away)",
+        "start_time": 36000,
+        "stop_time": 270000,
+        "total_time": 306285
+    },
+    {
+        "album": "Freedom Writers",
+        "album_artist": "Montell Jordan",
+        "artist": "Montell Jordan",
+        "name": "This Is How We Do It",
+        "start_time": 12000,
+        "stop_time": 227000,
+        "total_time": 238497
+    },
+    {
+        "album": "International",
+        "album_artist": "New Order",
+        "artist": "New Order",
+        "name": "Bizarre Love Triangle (Extended Dance Mix)",
+        "start_time": 21000,
+        "stop_time": null,
+        "total_time": 404636
+    },
+    {
+        "album": "Unorthodox Jukebox",
+        "album_artist": null,
+        "artist": "Bruno Mars",
+        "name": "Treasure",
+        "start_time": 2680,
+        "stop_time": 177500,
+        "total_time": 178599
+    },
+    {
+        "album": "Ironman",
+        "album_artist": null,
+        "artist": "Ghostface Killah",
+        "name": "Iron Maiden",
+        "start_time": 51000,
+        "stop_time": null,
+        "total_time": 287216
+    },
+    {
+        "album": "Greatest Hits",
+        "album_artist": "The Notorious B.I.G.",
+        "artist": "The Notorious B.I.G.",
+        "name": "Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm)",
+        "start_time": 7000,
+        "stop_time": null,
+        "total_time": 294164
+    },
+    {
+        "album": "Dark Sky Paradise (Deluxe Edition)",
+        "album_artist": null,
+        "artist": "Big Sean",
+        "name": "I Don't F**k With You (feat. E-40)",
+        "start_time": 18000,
+        "stop_time": null,
+        "total_time": 284447
+    },
+    {
+        "album": "Sir Lucious Left Foot... The Son of Chico Dusty",
+        "album_artist": "Big Boi",
+        "artist": "Big Boi",
+        "name": "Night Night (feat. B.o.B. & Joi)",
+        "start_time": 10000,
+        "stop_time": null,
+        "total_time": 225313
+    },
+    {
+        "album": "English Anthems",
+        "album_artist": "Choir of King's College, Choir Of King's College, Cambridge & Stephen Cleobury",
+        "artist": "Choir Of King's College",
+        "name": "Hail, Gladdening Light",
+        "start_time": 5000,
+        "stop_time": 205000,
+        "total_time": 211666
+    },
+    {
+        "album": "Evolution: The Hits",
+        "album_artist": "Dead Or Alive",
+        "artist": "Dead Or Alive",
+        "name": "You Spin Me Round (Like A Record)",
+        "start_time": 3500,
+        "stop_time": null,
+        "total_time": 197198
+    },
+    {
+        "album": "Sir Lucious Left Foot... The Son of Chico Dusty",
+        "album_artist": "Big Boi",
+        "artist": "Big Boi",
+        "name": "Turns Me On (feat. Sleepy Brown & Joi)",
+        "start_time": 9800,
+        "stop_time": null,
+        "total_time": 209476
+    },
+    {
+        "album": "Sorry For Party Rocking",
+        "album_artist": null,
+        "artist": "LMFAO",
+        "name": "Party Rock Anthem (feat. Lauren Bennett & Goon Rock)",
+        "start_time": 9000,
+        "stop_time": null,
+        "total_time": 272587
+    },
+    {
+        "album": "Let It Be",
+        "album_artist": null,
+        "artist": "The Beatles",
+        "name": "Two Of Us",
+        "start_time": 10000,
+        "stop_time": null,
+        "total_time": 216666
+    },
+    {
+        "album": "The Black Album",
+        "album_artist": null,
+        "artist": "Jay-Z",
+        "name": "Public Service Announcement (Interlude)",
+        "start_time": 20000,
+        "stop_time": null,
+        "total_time": 175046
+    },
+    {
+        "album": "Tetsuo & Youth [Explicit]",
+        "album_artist": "Lupe Fiasco",
+        "artist": "Lupe Fiasco",
+        "name": "Dots & Lines [Explicit]",
+        "start_time": 27000,
+        "stop_time": 353000,
+        "total_time": 392437
+    },
+    {
+        "album": "Brian McKnight",
+        "album_artist": "Brian McKnight",
+        "artist": "Brian McKnight",
+        "name": "Goodbye My Love",
+        "start_time": 23000,
+        "stop_time": null,
+        "total_time": 263637
+    },
+    {
+        "album": "Enter the Wu-Tang - 36 Chambers",
+        "album_artist": "Wu-Tang Clan",
+        "artist": "Wu-Tang Clan",
+        "name": "Tearz",
+        "start_time": 28000,
+        "stop_time": 239500,
+        "total_time": 257802
+    },
+    {
+        "album": "Under Construction",
+        "album_artist": "Missy Elliott",
+        "artist": "Missy Elliott",
+        "name": "Intro/Go To The Floor",
+        "start_time": 101000,
+        "stop_time": null,
+        "total_time": 306259
+    },
+    {
+        "album": "People's Instinctive Travels & The Paths Of Ryhthm",
+        "album_artist": "Tribe Called Quest",
+        "artist": "Tribe Called Quest",
+        "name": "Bonita Applebum",
+        "start_time": 19000,
+        "stop_time": 198000,
+        "total_time": 231706
+    },
+    {
+        "album": "Ironman",
+        "album_artist": null,
+        "artist": "Ghostface Killah",
+        "name": "Daytona 500",
+        "start_time": 40000,
+        "stop_time": null,
+        "total_time": 280764
+    },
+    {
+        "album": "The Great Adventures Of Slick Rick",
+        "album_artist": "Slick Rick",
+        "artist": "Slick Rick",
+        "name": "Mona Lisa",
+        "start_time": 26000,
+        "stop_time": 206500,
+        "total_time": 248189
+    },
+    {
+        "album": "Paid In Full (Expanded)",
+        "album_artist": "Eric B. & Rakim",
+        "artist": "Eric B. & Rakim",
+        "name": "Paid In Full",
+        "start_time": 26200,
+        "stop_time": 143000,
+        "total_time": 228666
+    },
+    {
+        "album": "The W",
+        "album_artist": "Wu-Tang Clan",
+        "artist": "Wu-Tang Clan",
+        "name": "Protect Ya Neck (The Jump Off)",
+        "start_time": 21000,
+        "stop_time": null,
+        "total_time": 238513
+    },
+    {
+        "album": "Ironman",
+        "album_artist": null,
+        "artist": "Ghostface Killah",
+        "name": "260",
+        "start_time": 21500,
+        "stop_time": null,
+        "total_time": 167000
+    },
+    {
+        "album": "The Cookbook",
+        "album_artist": "Missy Elliott",
+        "artist": "Missy Elliott",
+        "name": "Joy (featuring Mike Jones)",
+        "start_time": 97000,
+        "stop_time": null,
+        "total_time": 289253
+    },
+    {
+        "album": "Plastic Beach",
+        "album_artist": null,
+        "artist": "Gorillaz",
+        "name": "Superfast Jellyfish (feat. Gruff Rhys & De La Soul)",
+        "start_time": 10000,
+        "stop_time": null,
+        "total_time": 174936
+    },
+    {
+        "album": "Liquid Swords",
+        "album_artist": "GZA/Genius",
+        "artist": "GZA/Genius",
+        "name": "Liquid Swords",
+        "start_time": 80000,
+        "stop_time": null,
+        "total_time": 270836
+    },
+    {
+        "album": "Vaudeville Villain",
+        "album_artist": null,
+        "artist": "DOOM",
+        "name": "G.M.C.",
+        "start_time": 14000,
+        "stop_time": null,
+        "total_time": 213159
+    },
+    {
+        "album": "Enter the Wu-Tang - 36 Chambers",
+        "album_artist": "Wu-Tang Clan",
+        "artist": "Wu-Tang Clan",
+        "name": "Protect Ya Neck",
+        "start_time": 20000,
+        "stop_time": null,
+        "total_time": 291291
+    },
+    {
+        "album": "good kid, m.A.A.d city (Deluxe Version)",
+        "album_artist": "Kendrick Lamar",
+        "artist": "Kendrick Lamar",
+        "name": "Sherane a.k.a Master Splinter\u2019s Daughter [Explicit]",
+        "start_time": 19000,
+        "stop_time": 193000,
+        "total_time": 273711
+    },
+    {
+        "album": "Only Built 4 Cuban Linx",
+        "album_artist": "Raekwon",
+        "artist": "Raekwon",
+        "name": "Incarcerated Scarfaces",
+        "start_time": 28000,
+        "stop_time": null,
+        "total_time": 282723
+    },
+    {
+        "album": "Ironman",
+        "album_artist": null,
+        "artist": "Ghostface Killah",
+        "name": "Assassination Day",
+        "start_time": 16000,
+        "stop_time": null,
+        "total_time": 258194
+    },
+    {
+        "album": "The Mouse And The Mask",
+        "album_artist": null,
+        "artist": "Dangerdoom",
+        "name": "El Chupa Nibre",
+        "start_time": 4500,
+        "stop_time": null,
+        "total_time": 155271
+    },
+    {
+        "album": "Tical 2000: Judgement Day",
+        "album_artist": null,
+        "artist": "Method Man",
+        "name": "Judgement Day",
+        "start_time": 60000,
+        "stop_time": null,
+        "total_time": 360333
+    },
+    {
+        "album": "This Is Not A Test!",
+        "album_artist": "Missy Elliott",
+        "artist": "Missy Elliott",
+        "name": "Pass That Dutch",
+        "start_time": 15000,
+        "stop_time": null,
+        "total_time": 217260
+    },
+    {
+        "album": "Only Built 4 Cuban Linx",
+        "album_artist": "Raekwon",
+        "artist": "Raekwon",
+        "name": "Rainy Dayz",
+        "start_time": 45000,
+        "stop_time": 300000,
+        "total_time": 362579
+    },
+    {
+        "album": "Room with a view (Maxi)",
+        "album_artist": null,
+        "artist": "J-Kwon",
+        "name": "Tipsy",
+        "start_time": 6000,
+        "stop_time": null,
+        "total_time": 242782
+    },
+    {
+        "album": "Ironman",
+        "album_artist": null,
+        "artist": "Ghostface Killah",
+        "name": "Box In Hand",
+        "start_time": 25000,
+        "stop_time": null,
+        "total_time": 194795
+    },
+    {
+        "album": "Liquid Swords",
+        "album_artist": "GZA/Genius",
+        "artist": "GZA/Genius",
+        "name": "Hell's Wind Staff / Killah Hills 10304",
+        "start_time": 85000,
+        "stop_time": null,
+        "total_time": 308661
+    },
+    {
+        "album": "(no album)",
+        "album_artist": null,
+        "artist": "Spice Girls",
+        "name": "Wannabe",
+        "start_time": 4300,
+        "stop_time": 170000,
+        "total_time": 175020
+    },
+    {
+        "album": "Elvis' Christmas Album",
+        "album_artist": null,
+        "artist": "Elvis Presley",
+        "name": "White Christmas",
+        "start_time": 14000,
+        "stop_time": null,
+        "total_time": 164284
+    },
+    {
+        "album": "Skin and Bones (Bonus Track Version)",
+        "album_artist": "Foo Fighters",
+        "artist": "Foo Fighters",
+        "name": "Razor",
+        "start_time": 40000,
+        "stop_time": null,
+        "total_time": 408042
+    },
+    {
+        "album": "Iron Flag",
+        "album_artist": "Wu-Tang Clan",
+        "artist": "Wu-Tang Clan",
+        "name": "In the Hood",
+        "start_time": 13000,
+        "stop_time": null,
+        "total_time": 251115
+    },
+    {
+        "album": "Tical",
+        "album_artist": "Method Man",
+        "artist": "Method Man",
+        "name": "Tical",
+        "start_time": 69000,
+        "stop_time": null,
+        "total_time": 236952
+    },
+    {
+        "album": "Epiphany - The Best of Chaka Khan, Vol. 1",
+        "album_artist": null,
+        "artist": "Chaka Khan",
+        "name": "Ain't Nobody (faster)",
+        "start_time": 17300,
+        "stop_time": 258500,
+        "total_time": 267676
+    },
+    {
+        "album": "Born Like This.",
+        "album_artist": "DOOM",
+        "artist": "DOOM",
+        "name": "Rap Ambush",
+        "start_time": 12000,
+        "stop_time": null,
+        "total_time": 88372
+    },
+    {
+        "album": "Timbaland Presents: Shock Value",
+        "album_artist": "Timbaland",
+        "artist": "Timbaland",
+        "name": "Give It To Me Feat Nelly Furtado & Justin Timberlake",
+        "start_time": 9000,
+        "stop_time": null,
+        "total_time": 234161
+    },
+    {
+        "album": "(no album)",
+        "album_artist": null,
+        "artist": "Clarence Carter",
+        "name": "Strokin'",
+        "start_time": 7000,
+        "stop_time": null,
+        "total_time": 291970
+    },
+    {
+        "album": "Born Like This.",
+        "album_artist": "MF DOOM",
+        "artist": "DOOM",
+        "name": "Cellz",
+        "start_time": 112000,
+        "stop_time": null,
+        "total_time": 261120
+    },
+    {
+        "album": "Station to Station",
+        "album_artist": "David Bowie",
+        "artist": "David Bowie",
+        "name": "Station to Station",
+        "start_time": 68000,
+        "stop_time": null,
+        "total_time": 614478
+    },
+    {
+        "album": "(no album)",
+        "album_artist": null,
+        "artist": "Wu-Tang Clan",
+        "name": "Protect Ya Neck  (The Jump Off - Clean Original)",
+        "start_time": 14000,
+        "stop_time": null,
+        "total_time": 241763
+    },
+    {
+        "album": "Down To Earth",
+        "album_artist": "Flight Facilities",
+        "artist": "Flight Facilities",
+        "name": "Sunshine [feat. Reggie Watts]",
+        "start_time": 6000,
+        "stop_time": null,
+        "total_time": 265064
+    },
+    {
+        "album": "Only Built 4 Cuban Linx",
+        "album_artist": "Raekwon",
+        "artist": "Raekwon",
+        "name": "Glaciers of Ice",
+        "start_time": 58000,
+        "stop_time": 246000,
+        "total_time": 321123
+    },
+    {
+        "album": "Ironman",
+        "album_artist": null,
+        "artist": "Ghostface Killah",
+        "name": "Fish",
+        "start_time": 28000,
+        "stop_time": null,
+        "total_time": 230504
+    },
+    {
+        "album": "Gorillaz",
+        "album_artist": null,
+        "artist": "Gorillaz",
+        "name": "M1 A1",
+        "start_time": 80000,
+        "stop_time": 225000,
+        "total_time": 641985
+    },
+    {
+        "album": "Only Built 4 Cuban Linx",
+        "album_artist": "Raekwon",
+        "artist": "Raekwon",
+        "name": "Spot Rusherz",
+        "start_time": 54000,
+        "stop_time": null,
+        "total_time": 192783
+    },
+    {
+        "album": "Hot Shot",
+        "album_artist": null,
+        "artist": "Shaggy",
+        "name": "Luv Me, Luv Me (feat. Janet Jackson)",
+        "start_time": 7500,
+        "stop_time": null,
+        "total_time": 215431
+    },
+    {
+        "album": "Parade - Music From The Motion Picture Under The Cherry Moon",
+        "album_artist": "Prince",
+        "artist": "Prince",
+        "name": "Kiss",
+        "start_time": 2000,
+        "stop_time": 227000,
+        "total_time": 227709
+    },
+    {
+        "album": "Chewed Up",
+        "album_artist": "Louis CK",
+        "artist": "Louis CK",
+        "name": "Offensive Words [Explicit]",
+        "start_time": 40000,
+        "stop_time": null,
+        "total_time": 528796
+    },
+    {
+        "album": "The Mouse And The Mask",
+        "album_artist": null,
+        "artist": "Dangerdoom",
+        "name": "Vats of Urine",
+        "start_time": 15500,
+        "stop_time": null,
+        "total_time": 108042
+    },
+    {
+        "album": "(no album)",
+        "album_artist": null,
+        "artist": "E-40 & Too $hort",
+        "name": "Slide Through (feat. Tyga)",
+        "start_time": 54340,
+        "stop_time": null,
+        "total_time": 201586
+    },
+    {
+        "album": "More Fish",
+        "album_artist": null,
+        "artist": "Ghostface Killah",
+        "name": "Ghost Is Back",
+        "start_time": 103000,
+        "stop_time": null,
+        "total_time": 304561
+    },
+    {
+        "album": "Is This It",
+        "album_artist": "The Strokes",
+        "artist": "The Strokes",
+        "name": "Last Nite",
+        "start_time": 100,
+        "stop_time": null,
+        "total_time": 197120
+    },
+    {
+        "album": "Ironman",
+        "album_artist": null,
+        "artist": "Ghostface Killah",
+        "name": "Wildflower",
+        "start_time": 25000,
+        "stop_time": null,
+        "total_time": 206628
+    },
+    {
+        "album": "Mos Def & Talib Kweli Are Black Star",
+        "album_artist": "Black Star",
+        "artist": "Black Star",
+        "name": "Brown Skin Lady",
+        "start_time": 37000,
+        "stop_time": null,
+        "total_time": 346749
+    },
+    {
+        "album": "Surfer Rosa (Remastered)",
+        "album_artist": "The Pixies",
+        "artist": "The Pixies",
+        "name": "I\u2019m Amazed (Remastered)",
+        "start_time": 23000,
+        "stop_time": null,
+        "total_time": 105325
+    },
+    {
+        "album": "Hot Fuss",
+        "album_artist": "The Killers",
+        "artist": "The Killers",
+        "name": "Jenny Was a Friend of Mine",
+        "start_time": 13000,
+        "stop_time": null,
+        "total_time": 244218
+    },
+    {
+        "album": "Ironman",
+        "album_artist": null,
+        "artist": "Ghostface Killah",
+        "name": "Black Jesus",
+        "start_time": 60000,
+        "stop_time": null,
+        "total_time": 277446
+    },
+    {
+        "album": "Only Built 4 Cuban Linx",
+        "album_artist": "Raekwon",
+        "artist": "Raekwon",
+        "name": "Knowledge God",
+        "start_time": 36000,
+        "stop_time": null,
+        "total_time": 264620
+    },
+    {
+        "album": "Super Hits",
+        "album_artist": "The Romantics",
+        "artist": "The Romantics",
+        "name": "What I Like About You",
+        "start_time": 1500,
+        "stop_time": null,
+        "total_time": 177345
+    },
+    {
+        "album": "Life After Death",
+        "album_artist": "The Notorious B.I.G.",
+        "artist": "The Notorious B.I.G.",
+        "name": "Going Back to Cali",
+        "start_time": 75000,
+        "stop_time": null,
+        "total_time": 307487
+    }
+]
