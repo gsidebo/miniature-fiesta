@@ -1,0 +1,24 @@
+[
+    {
+        "location": "miniature-fiesta/example_files/example.mp3",
+        "start": "00:01:20.000"
+    },
+    {
+        "location": "miniature-fiesta/example_files/example.mp3",
+        "start": "00:00:53.000"
+    },
+    {
+        "location": "miniature-fiesta/example_files/example.mp3",
+        "start": "00:01:30.000"
+    },
+    {
+        "duration": "00:02:22.000",
+        "location": "miniature-fiesta/example_files/example.mp3",
+        "start": "00:00:02.000"
+    },
+    {
+        "duration": "00:01:01.000",
+        "location": "miniature-fiesta/example_files/example.mp3",
+        "start": "00:06:02.000"
+    }
+]
