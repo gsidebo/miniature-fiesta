@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 .ipynb_checkpoints/*
 example_files/*
+chop
+chop/*
